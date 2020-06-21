@@ -3,4 +3,8 @@ require 'pry'
 require_relative '../lib/tic_tac_toe.rb'
 
 game1=TicTacToe.new
+<<<<<<< HEAD
 game1.play
+=======
+TicTacToe.display_board
+>>>>>>> 0bda5da572dd7e0426fc04a6c427ed4a6f6b53b4
